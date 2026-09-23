@@ -1,0 +1,15 @@
+# 编译生成的可执行文件
+fork_demo
+exec_demo
+scheduler
+
+# 临时文件
+*.o
+*.tmp
+*~
+
+# VS Code
+.vscode/
+
+# PDF报告
+*.pdf
