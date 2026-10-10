@@ -1,5 +1,6 @@
 /*
- * Problem 6: Generate Fibonacci sequence with a Pthread
+ * Homework 1 (第一次作业) - Problem 6
+ * Generate Fibonacci sequence with a Pthread
  * Usage: ./fib_thread 5
  * The worker thread writes the first n Fibonacci numbers into a shared
  * array fib[]. The parent thread pthread_join()s the worker, then prints.

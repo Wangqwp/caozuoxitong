@@ -1,8 +1,10 @@
 /*
- * Problem 5: Generate Fibonacci sequence using fork()
+ * Homework 1 (第一次作业) - Problem 5
+ * Generate Fibonacci sequence using fork()
  * Usage: ./fib_fork 5
  * The child process prints the first n Fibonacci numbers.
  * The parent waits for the child to finish before exiting.
+ * Compile on Linux/WSL: gcc fib_fork.c -o fib_fork
  */
 #include <stdio.h>
 #include <stdlib.h>
